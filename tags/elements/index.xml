@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>elements on XenVector - Azure Cloud Solutions</title>
-    <link>https://www.xenvector.com/bexer/site/tags/elements/</link>
+    <link>https://www.xenvector.com/tags/elements/</link>
     <description>Recent content in elements on XenVector - Azure Cloud Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jan 2019 16:04:01 +0600</lastBuildDate><atom:link href="https://www.xenvector.com/bexer/site/tags/elements/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Jan 2019 16:04:01 +0600</lastBuildDate><atom:link href="https://www.xenvector.com/tags/elements/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Elements</title>
-      <link>https://www.xenvector.com/bexer/site/blog/elements/</link>
+      <link>https://www.xenvector.com/blog/elements/</link>
       <pubDate>Tue, 22 Jan 2019 16:04:01 +0600</pubDate>
       
-      <guid>https://www.xenvector.com/bexer/site/blog/elements/</guid>
+      <guid>https://www.xenvector.com/blog/elements/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
     <item>
       <title>Elements</title>
-      <link>https://www.xenvector.com/bexer/site/english/blog/elements/</link>
+      <link>https://www.xenvector.com/english/blog/elements/</link>
       <pubDate>Tue, 22 Jan 2019 16:04:01 +0600</pubDate>
       
-      <guid>https://www.xenvector.com/bexer/site/english/blog/elements/</guid>
+      <guid>https://www.xenvector.com/english/blog/elements/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
