@@ -1,64 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Case Study on XenVector - Azure Cloud Solutions</title>
+    <title>XenVector Case Study on XenVector - Azure Cloud Solutions</title>
     <link>https://www.xenvector.com/project/</link>
-    <description>Recent content in Case Study on XenVector - Azure Cloud Solutions</description>
+    <description>Recent content in XenVector Case Study on XenVector - Azure Cloud Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Feb 2019 10:47:55 +0600</lastBuildDate><atom:link href="https://www.xenvector.com/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Art Institute of Chicago</title>
-      <link>https://www.xenvector.com/project/art-institute.1/</link>
+      <title>AWS to Azure Migration</title>
+      <link>https://www.xenvector.com/project/supplychain/</link>
       <pubDate>Thu, 07 Feb 2019 10:47:55 +0600</pubDate>
       
-      <guid>https://www.xenvector.com/project/art-institute.1/</guid>
-      <description>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>https://www.xenvector.com/project/supplychain/</guid>
+      <description>Empowering Predictive Supply Chain Excellence for Fortune 500 Leaders Our esteemed client stands as a pioneering force in the realm of predictive supply chain visibility.</description>
     </item>
     
     <item>
-      <title>Art Institute of Chicago</title>
-      <link>https://www.xenvector.com/project/art-institute/</link>
+      <title>Datacenter Migration</title>
+      <link>https://www.xenvector.com/project/service-provider/</link>
       <pubDate>Thu, 07 Feb 2019 10:47:55 +0600</pubDate>
       
-      <guid>https://www.xenvector.com/project/art-institute/</guid>
-      <description>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>https://www.xenvector.com/project/service-provider/</guid>
+      <description>Empowering Government Excellence with Real-Time Bus Tracking Our client, India&amp;rsquo;s foremost provider of business services, stands as a global stalwart, serving a diverse clientele exceeding 1,700 partners worldwide.</description>
     </item>
     
     <item>
-      <title>Carpe Diem Santorini</title>
-      <link>https://www.xenvector.com/project/carpe-diem/</link>
+      <title>Digital Agency - Datacenter Migration</title>
+      <link>https://www.xenvector.com/project/digital-agency/</link>
       <pubDate>Thu, 07 Feb 2019 10:47:55 +0600</pubDate>
       
-      <guid>https://www.xenvector.com/project/carpe-diem/</guid>
-      <description>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>https://www.xenvector.com/project/digital-agency/</guid>
+      <description>Pioneering Global Digital Excellence Our client is a trailblazing force in the realm of digital experiences, orchestrating innovative customer journeys across the globe.</description>
     </item>
     
     <item>
-      <title>Celebrate with Stoli</title>
-      <link>https://www.xenvector.com/project/celebrate-with/</link>
+      <title>Financial Services : Modernization</title>
+      <link>https://www.xenvector.com/project/datamodernization2/</link>
       <pubDate>Thu, 07 Feb 2019 10:47:55 +0600</pubDate>
       
-      <guid>https://www.xenvector.com/project/celebrate-with/</guid>
-      <description>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>https://www.xenvector.com/project/datamodernization2/</guid>
+      <description>Empowering Financial Services Excellence Through Modern Data Management
+Business Challenge Our client, a prominent leader in the microfinance sector, found themselves at the forefront of a transformative journey.</description>
     </item>
     
     <item>
-      <title>Essential Looks Trend Report</title>
-      <link>https://www.xenvector.com/project/essential-looks.1/</link>
+      <title>Media Company : Media Analytics</title>
+      <link>https://www.xenvector.com/project/aicognitive/</link>
       <pubDate>Thu, 07 Feb 2019 10:47:55 +0600</pubDate>
       
-      <guid>https://www.xenvector.com/project/essential-looks.1/</guid>
-      <description>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>https://www.xenvector.com/project/aicognitive/</guid>
+      <description>Elevating Social Media Dominance for India&amp;rsquo;s Premier Publication House Our esteemed client, a towering presence in the Indian media landscape, stands as one of the nation&amp;rsquo;s largest and most influential publication houses.</description>
     </item>
     
     <item>
-      <title>Essential Looks Trend Report</title>
-      <link>https://www.xenvector.com/project/essential-looks/</link>
+      <title>News Company : Data Modernization</title>
+      <link>https://www.xenvector.com/project/datamodernization1/</link>
       <pubDate>Thu, 07 Feb 2019 10:47:55 +0600</pubDate>
       
-      <guid>https://www.xenvector.com/project/essential-looks/</guid>
-      <description>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>https://www.xenvector.com/project/datamodernization1/</guid>
+      <description>Elevating Resilience and Security for a Leading Media Powerhouse In the vibrant landscape of South India, our client stands as an unrivaled beacon of journalistic excellence.</description>
     </item>
     
   </channel>
