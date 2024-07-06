@@ -26,6 +26,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://xenvector.com/blog/2024/07/06/top10-2024/</loc>
+         <lastmod>2024-07-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://xenvector.com/capability/aiops/</loc>
          <lastmod>2024-07-06</lastmod>
          <changefreq>daily</changefreq>
@@ -57,6 +62,11 @@
     </url>
     <url>
          <loc>https://xenvector.com/blog/category/security/</loc>
+         <lastmod>2024-07-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://xenvector.com/blog/category/market-trends/</loc>
          <lastmod>2024-07-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
